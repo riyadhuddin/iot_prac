@@ -1,4 +1,4 @@
-# iotbd
+# iot practices will be dumped here
 ### [NodeMCU](https://riyadhbd.github.io/deskme)
 ### [Home](https://riyadhbd.github.io)
 ServoLdr, arduino code for controlling servo motor with ldr
